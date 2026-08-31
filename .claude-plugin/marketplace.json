@@ -1,0 +1,37 @@
+{
+  "name": "authentic-ai",
+  "owner": {
+    "name": "Billy Rybka",
+    "email": "billy@peaksystems.io"
+  },
+  "metadata": {
+    "description": "Authentic AI. Systems for creators who want AI to sound like them, not like AI. Install the plugin that fits the job.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aai-youtube",
+      "displayName": "AAI YouTube",
+      "source": "./plugins/aai-youtube",
+      "description": "Authentic AI for YouTube. Skills for foundation setup, voice capture, story/proof/metaphor banks, thumbnail and title development.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Billy Rybka",
+        "email": "billy@peaksystems.io"
+      },
+      "homepage": "https://github.com/BillyRybka/authentic-ai",
+      "repository": "https://github.com/BillyRybka/authentic-ai",
+      "license": "LicenseRef-Proprietary",
+      "category": "content-creation",
+      "keywords": [
+        "youtube",
+        "content",
+        "creator-tools",
+        "voice",
+        "thumbnails",
+        "obsidian",
+        "scriptwriting"
+      ]
+    }
+  ]
+}
